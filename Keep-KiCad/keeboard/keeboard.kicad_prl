@@ -12,6 +12,7 @@
       "Net-(U1-GPIO41{slash}MTDI)",
       "GND",
       "Net-(U1-GPIO42{slash}MTMS)",
+      "/unconnected-(U1-3V3-Pad1)_1",
       "/unconnected-(U1-3V3-Pad1)_1_1",
       "unconnected-(U1-CHIP_PU-Pad3)",
       "/ROW4",
@@ -198,7 +199,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_fffffffe",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
