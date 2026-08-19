@@ -6,7 +6,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 
 
 
-using TEENSY 4.1
+using ESP32 S3 Devkit C
 
 
 
@@ -35,5 +35,11 @@ Rotary Encoder
 
 
 
-Gasket Mount
+Gasket Mount (ISH)
+
+will use poron sticky foam tape maximum 4.7mm
+
+
+
+ALPS EC11 THT 20k thread-blue rotary encoder
 
