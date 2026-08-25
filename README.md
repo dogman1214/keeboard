@@ -43,3 +43,10 @@ will use poron sticky foam tape maximum 4.7mm
 
 ALPS EC11 THT 20k thread-blue rotary encoder
 
+
+
+
+Will use a silicon pour underneath for sound insulation.
+
+"If you decide to order a kit, look for a softness rating of Shore 20A or Shore 15A. Anything harder (like 40A or 50A) will cure like a stiff car tire and kill your gasket mount's bouncy typing feel."
+
