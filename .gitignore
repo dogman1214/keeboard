@@ -1,0 +1,9 @@
+*.exr
+*.blend
+CAD/caserender.blend1
+CAD/cad.step
+CAD/cad.gltf
+CAD/cad.FCStd
+CAD/cad.bin
+CAD/cad.20260812-185226.FCBak
+/PCB/Keep-KiCad
