@@ -15,7 +15,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | :--- | :--- | :--- | :--- |
 | **Switches** | Gateron Oil King Switches (Alternative: Strawberry milk ice linear) | $61.51 | [Amazon](https://amazon.com) |
 | **Rotary Encoder** | ALPS EC11 THT 20k thread-blue vertical switch (H: 20mm) | $5.58 | [Mouser](https://mouser.com) |
-| **Keycaps** | PBT or DSA Profile | $40.00 | *TBD* |
+| **Keycaps** | PBT or DSA Profile | $25.00 | *TBD* |
 | **Diodes** | 1N4148 SMD (Quantity: 104) | *TBD* | *TBD* |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Stabilizer| idk| idk|
