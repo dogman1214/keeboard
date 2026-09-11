@@ -13,7 +13,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 
 | Item | Description | Cost (Pre-Tax) | Link |
 | :--- | :--- | :--- | :--- |
-| **Switches** | Gateron Oil King Switches (Alternative: Strawberry milk ice linear) | $61.51 | [Amazon](https://amazon.com) |
+| **Switches** | Gateron Milky Yellow Pro V2 | $25.90 | [Amazon]([https://amazon.com](https://www.amazon.com/gp/product/B0C2CZJQHT?smid=&th=1)) |
 | **Rotary Encoder** | ALPS EC11 THT 20k thread-blue vertical switch (H: 20mm) | $5.58 | [Mouser](https://mouser.com) |
 | **Keycaps** | PBT or DSA Profile | $25.00 | *TBD* |
 | **Diodes** | 1N4148 SMD (Quantity: 104) | *TBD* | *TBD* |
