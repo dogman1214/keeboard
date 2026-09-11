@@ -16,7 +16,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Switches** | Gateron Milky Yellow Pro V2 | $25.90 | [Amazon](https://www.amazon.com/gp/product/B0C2CZJQHT?smid=&th=1) |
 | **Rotary Encoder** | ALPS EC11 THT 20k thread-blue vertical switch (H: 20mm) | $5.58 | [Mouser](https://mouser.com) |
 | **Keycaps** | PBT green from keycaps, MDA profile | $39.99 | [Amazon](https://www.amazon.com/gp/product/B0C5599GJ2?smid=&th=1) |
-| **Diodes** | 1N4148 SMD (Quantity: 104) | *TBD* | *TBD* |
+| **Diodes** | 1N4148 SMD (Quantity: 104) SOD-123 | $0.18 per unit| [Mouser](https://www.mouser.com/en/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D) |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Stabilizer| idk| idk|
 
@@ -34,7 +34,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 ## 📐 Case Design & Sound Dampening
 
 ### Gasket Mount (ISH)
-* Utilizing **Poron sticky foam tape** with a maximum thickness of **4.7mm**.
+* Utilizing **Poron sticky foam tape** with a maximum thickness of **4.7mm**. Linked above.
 
 ### Silicon Pour Sound Insulation
 A silicone pour will be used underneath the PCB for acoustic insulation.
