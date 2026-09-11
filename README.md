@@ -22,6 +22,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 ### Fasteners & Case Hardware
 * M3 Threaded heatset inserts
 * M3 Screws
+* 3D printed case
 
 ---
 
