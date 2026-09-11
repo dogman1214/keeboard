@@ -15,7 +15,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | :--- | :--- | :--- | :--- |
 | **Switches** | Gateron Milky Yellow Pro V2 | $25.90 | [Amazon](https://www.amazon.com/gp/product/B0C2CZJQHT?smid=&th=1) |
 | **Rotary Encoder** | ALPS EC11 THT 20k thread-blue vertical switch (H: 20mm) | $5.58 | [Mouser](https://mouser.com) |
-| **Keycaps** | PBT or DSA Profile | $25.00 | *TBD* |
+| **Keycaps** | PBT green from keycaps, MDA profile | $39.99 | [Amazon](https://www.amazon.com/gp/product/B0C5599GJ2?smid=&th=1) |
 | **Diodes** | 1N4148 SMD (Quantity: 104) | *TBD* | *TBD* |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Stabilizer| idk| idk|
@@ -24,6 +24,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 * M3 Threaded heatset inserts
 * M3 Screws
 * 3D printed case
+* 3D printed knob
 
 ---
 
