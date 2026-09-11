@@ -18,6 +18,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Keycaps** | PBT or DSA Profile | $40.00 | *TBD* |
 | **Diodes** | 1N4148 SMD (Quantity: 104) | *TBD* | *TBD* |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
+| **STabilize** | Stabilizer| idk| idk|
 
 ### Fasteners & Case Hardware
 * M3 Threaded heatset inserts
