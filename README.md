@@ -21,8 +21,8 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **STabilize** | Stabilizer| idk| idk|
 
 ### Fasteners & Case Hardware
-* M3 Threaded heatset inserts
-* M3 Screws
+* M3 Threaded heatset inserts [Amazon](https://github.com/dogman1214/keeboard/edit/main/README.md)
+* M3 Screws [Amazon](https://github.com/dogman1214/keeboard/edit/main/README.md)
 * 3D printed case
 * 3D printed knob
 * Foam Sheet for feet pads [Amazon](https://www.amazon.com/BENECREAT-11-8x78-7-Neoprene-Adhesive-Protective/dp/B0CNGW237D?crid=3F982RFCQ3ELJ&dib=eyJ2IjoiMSJ9.LxHA-ezEm7gIZ2obota_51rzeo9zjOEQ-c1I1RK4WUi60-6Dgbn56uOWwgp52Jsqt85q82MrKfab31L7SZQ9CWFWoiXtwf2-Bw9o5pbwFnQyv1cv_Hb93TNuw4P_VQybd8xxlAE3_C8Nft0okeILGbKbV83cC7FLt8VXR8zl681pJt4LnFJREmubca9OpIDS2kuR9np-cX8EUQIODm1ZplY2HqLRYmWuD2nS337-AM8._ZMEgYBK27UZ7YRJrMJPnbLYLvMVSb63VBGY-M9doOs&dib_tag=se&keywords=2mm%2Badhesive%2Bneoprene%2Bsheet&qid=1789091880&sprefix=2mm%2Badhesive%2Bneoprene%2Bshe%2Caps%2C235&sr=8-1&th=1)
