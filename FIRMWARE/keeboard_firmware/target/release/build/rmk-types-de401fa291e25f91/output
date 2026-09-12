@@ -1,0 +1,4 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-env-changed=KEYBOARD_TOML_PATH
+cargo:rerun-if-env-changed=VIAL_JSON_PATH
+cargo:rerun-if-changed=C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\keyboard.toml

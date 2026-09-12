@@ -1,0 +1,9 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\bitfield_struct-18ed445c1e86ce4b.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\attr.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\bitenum.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\traits.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\../README.md
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\bitfield_struct-18ed445c1e86ce4b.dll: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\attr.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\bitenum.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\traits.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\../README.md
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\lib.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\attr.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\bitenum.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\traits.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitfield-struct-0.13.0\src\../README.md:

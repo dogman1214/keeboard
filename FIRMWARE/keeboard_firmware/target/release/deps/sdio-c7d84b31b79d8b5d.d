@@ -1,0 +1,12 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\sdio-c7d84b31b79d8b5d.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\common.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\emmc.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sd.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sdio.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\spi.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\libsdio-c7d84b31b79d8b5d.rlib: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\common.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\emmc.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sd.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sdio.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\spi.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\libsdio-c7d84b31b79d8b5d.rmeta: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\common.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\emmc.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sd.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sdio.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\spi.rs
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\lib.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\common.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\emmc.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sd.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\sdio.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\sdio-0.5.1\src\spi.rs:

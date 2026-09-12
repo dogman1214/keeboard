@@ -1,0 +1,3 @@
+cargo:rustc-link-search=C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\build\esp32s3-e0a21a2e38f0038e\out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

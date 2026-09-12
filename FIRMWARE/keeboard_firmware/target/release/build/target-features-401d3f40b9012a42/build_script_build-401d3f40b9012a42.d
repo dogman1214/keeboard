@@ -1,0 +1,8 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\build\target-features-401d3f40b9012a42\build_script_build-401d3f40b9012a42.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\build.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\rustc-version.txt C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-features.txt C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-cpus.txt
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\build\target-features-401d3f40b9012a42\build_script_build-401d3f40b9012a42.exe: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\build.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\rustc-version.txt C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-features.txt C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-cpus.txt
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\build.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\rustc-version.txt:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-features.txt:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\target-features-0.1.6\target-cpus.txt:

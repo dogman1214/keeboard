@@ -1,0 +1,10 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\xtensa_lx-2a15d65f245b56a7.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libxtensa_lx-2a15d65f245b56a7.rlib: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libxtensa_lx-2a15d65f245b56a7.rmeta: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\lib.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\interrupt.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\timer.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\xtensa-lx-0.13.0\src\macros.rs:

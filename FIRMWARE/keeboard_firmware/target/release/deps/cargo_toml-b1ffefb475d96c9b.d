@@ -1,0 +1,10 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\cargo_toml-b1ffefb475d96c9b.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\afs.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\error.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\inheritable.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\libcargo_toml-b1ffefb475d96c9b.rlib: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\afs.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\error.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\inheritable.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\release\deps\libcargo_toml-b1ffefb475d96c9b.rmeta: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\cargo_toml.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\afs.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\error.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\inheritable.rs
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\cargo_toml.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\afs.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\error.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_toml-1.0.1\src\inheritable.rs:

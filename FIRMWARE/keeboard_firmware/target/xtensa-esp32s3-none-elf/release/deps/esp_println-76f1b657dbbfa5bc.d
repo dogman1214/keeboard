@@ -1,0 +1,12 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\esp_println-76f1b657dbbfa5bc.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\logger.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\../README.md C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\build\esp-println-2286e769ea832c1b\out\log_filter.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libesp_println-76f1b657dbbfa5bc.rlib: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\logger.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\../README.md C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\build\esp-println-2286e769ea832c1b\out\log_filter.rs
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libesp_println-76f1b657dbbfa5bc.rmeta: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\logger.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\../README.md C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\build\esp-println-2286e769ea832c1b\out\log_filter.rs
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\lib.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\logger.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esp-println-0.18.0\src\../README.md:
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\build\esp-println-2286e769ea832c1b\out\log_filter.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Dogma\\OneDrive\\Documents\\GitHub\\keeboard\\FIRMWARE\\keeboard_firmware\\target\\xtensa-esp32s3-none-elf\\release\\build\\esp-println-2286e769ea832c1b\\out

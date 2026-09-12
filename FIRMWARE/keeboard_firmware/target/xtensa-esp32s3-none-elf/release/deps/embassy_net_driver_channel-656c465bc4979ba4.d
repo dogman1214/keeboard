@@ -1,0 +1,9 @@
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\embassy_net_driver_channel-656c465bc4979ba4.d: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\fmt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\../README.md
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libembassy_net_driver_channel-656c465bc4979ba4.rlib: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\fmt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\../README.md
+
+C:\Users\Dogma\OneDrive\Documents\GitHub\keeboard\FIRMWARE\keeboard_firmware\target\xtensa-esp32s3-none-elf\release\deps\libembassy_net_driver_channel-656c465bc4979ba4.rmeta: C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\lib.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\fmt.rs C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\../README.md
+
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\lib.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\fmt.rs:
+C:\Users\Dogma\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\embassy-net-driver-channel-0.4.0\src\../README.md:
