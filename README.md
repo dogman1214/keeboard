@@ -19,7 +19,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Diodes** | 1N4148 SMD (Quantity: 104) SOD-123 | $0.18 per unit| [Mouser](https://www.mouser.com/en/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D) |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Stabilizer| idk| idk|
-| ** PCB** | pcb| 
+| ** PCB** | pcb| $95.95| From JLCPCB WHY SO EXPENSIVE|
 | *** Kailh Hotswap Sockets| from Mechanical keyboards keyboards. 120 quantity | $13.2 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
 
 ### Fasteners & Case Hardware
