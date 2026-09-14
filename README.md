@@ -48,6 +48,4 @@ A silicone pour will be used underneath the PCB for acoustic insulation.
 
 ---
 
-##Cost Tracking (Pre-Tax)
-* **Current Identified Total:** $163.61
-* *Note: Total excludes the ESP32 development board, diodes, case materials, LEDs, and fasteners.*
+## Final price: TBD
