@@ -1,11 +1,8 @@
-# keeboard - TEMPORARY AI GENERATED README AS I BUILD THIS PROJECT
+# keeboard 
 
 A custom designed keyboard from scratch. Tailored to my preferences.
 
-## 🧠 Core Architecture
-* **Microcontroller:** ESP32-S3 DevKitC
 
----
 
 ## 📊 Bill of Materials (BOM)
 
@@ -18,13 +15,11 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Keycaps** | PBT green from keycaps, MOA profile | $24.99 | [Amazon](https://www.amazon.com/gp/product/B0F914Q43R?smid=A2X78RSRFYCZMR&th=1)|
 | **Diodes** | 1N4148 SMD (Quantity: 104) SOD-123 | $0.18 per unit| [Mouser](https://www.mouser.com/en/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D) |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
-| **STabilize** | Stabilizer| idk| idk|
+| **STabilize** | Durock v3 screw in | $25.99 | [Amazon](https://www.amazon.com/dp/B0B2RW12S2?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1)|
 | ** PCB** | pcb| $45| From use AIVON 30 dollar new discount|
 | *** Kailh Hotswap Sockets| from Mechanical keyboards keyboards. 120 quantity | $13.2 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
 |**esp32-s3-devkitc-1**| n16r8 | $8.99 | [Amazon](https://www.amazon.com/Development-Bluetooth-Internet-ESP32-S3-DevKit-ESP32-S3/dp/B0GBT212KM?crid=18EN3HOWIG57T&dib=eyJ2IjoiMSJ9.tzNazs2xZHaJHLQaOczav31Bt8maFOz8f8qyyf4BO30h7MXr-Pi6l-Vp82ejc7jbjPfpVnJ08UCCietmcJ9GIte8aKOtdG0FPqtXLBHDpjig2JnbK0Ae4eGwZiq4oQcz-ntDpLMCpC5Sy1FConwzV1bGajxGIlnL57IABwzdm8hjA6cs3RPiV_pklVjlxtgKd_hyTWKe8kwBdPWnxfK-hWWelkZ-Nf0gloHOBDlGmZY.J51YkWKe-2GqMDT6QlK9UXah3y5YX9cVImFtH_kyC0s&dib_tag=se&keywords=esp32-s3-devkitc&qid=1789349635&sprefix=esp32-s3-devkitc%2Caps%2C378&sr=8-1&th=1)|
-
-we need SOOPER GLOO as well!
-
+|Cyanoacrylate super glue| super glue| $5.99 | [Amazon](https://www.amazon.com/Super-Liquid-Drying-All-Purpose-Cyanoacrylate/dp/B0DYJPW9GK?crid=23A6NLJLQ5S12&dib=eyJ2IjoiMSJ9.Mub8QkPwWMd20XJnCQBPKsm3iEA1tpv7pPs0z7fd7E91-yK66w0lmGa37vSpLbNI3gZhNtUMoC_LXBV682vDTLMafkzhrc_x5CAgDVR_e60trE99OTs5SguXrDpqKghBPTNMWwKQDMSH5zN8E1Avt3TK1uAdFykSTUA_Qe4u6_EaXq6eyc_zOFb9Hwg3lMcrxPGjYGQpp-DYVGSpXPEiU8BptsOfvCSLRc5i-0n6L_I.xhmFge9rPmC8OiSXS0c8A98pkxovcTaidHKyKHzN0L0&dib_tag=se&keywords=cyanoacrylate%2Bglue&qid=1789359057&sprefix=cyanoac%2Caps%2C380&sr=8-3&th=1)
 
 ### Fasteners & Case Hardware
 * M3 Threaded heatset inserts [Amazon](https://www.amazon.com/Vibit-Threaded-Soldering-Printing-Components/dp/B0FWWW8VP1?crid=2ZLW6DXVPMKQ&dib=eyJ2IjoiMSJ9.jLTlDomMA9w4IzeL04i5VwHiZFd7lfoAdZ9757VpEDqz52yfgxcD7YglkHBvQvFTpR_oZf3h6ql89xyiLifPCS-iEFnxw5mgM57Yd8zDzBfmWA_4BZwZiW9SSEJipDFTR73DwyriOBj9bf0wb85II3uKaqkkRRsuQFiYEEleY3z4LcvSLQpUcC8MaH7uiai110bXBNrqFpUXXlPXCUZi23ohaWzR18I19no6a36LP9k.lW__CT65i1wZ0QMPFAMEr1RklRZceqi4ICQkBL85p6I&dib_tag=se&keywords=heatset%2Bm3%2Binsert&qid=1789254455&sprefix=heatset%2Bm3%2Binser%2Caps%2C212&sr=8-4&th=1) Price: $6.99
