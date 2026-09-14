@@ -19,6 +19,8 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Diodes** | 1N4148 SMD (Quantity: 104) SOD-123 | $0.18 per unit| [Mouser](https://www.mouser.com/en/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D) |
 | **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Stabilizer| idk| idk|
+| ** PCB** | pcb| 
+| *** Kailh Hotswap Sockets| from Mechanical keyboards keyboards. 120 quantity | $13.2 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
 
 ### Fasteners & Case Hardware
 * M3 Threaded heatset inserts [Amazon](https://www.amazon.com/Vibit-Threaded-Soldering-Printing-Components/dp/B0FWWW8VP1?crid=2ZLW6DXVPMKQ&dib=eyJ2IjoiMSJ9.jLTlDomMA9w4IzeL04i5VwHiZFd7lfoAdZ9757VpEDqz52yfgxcD7YglkHBvQvFTpR_oZf3h6ql89xyiLifPCS-iEFnxw5mgM57Yd8zDzBfmWA_4BZwZiW9SSEJipDFTR73DwyriOBj9bf0wb85II3uKaqkkRRsuQFiYEEleY3z4LcvSLQpUcC8MaH7uiai110bXBNrqFpUXXlPXCUZi23ohaWzR18I19no6a36LP9k.lW__CT65i1wZ0QMPFAMEr1RklRZceqi4ICQkBL85p6I&dib_tag=se&keywords=heatset%2Bm3%2Binsert&qid=1789254455&sprefix=heatset%2Bm3%2Binser%2Caps%2C212&sr=8-4&th=1) Price: $6.99
@@ -31,7 +33,7 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 
 ---
 
-## 📐 Case Design & Sound Dampening
+##Case Design & Sound Dampening
 
 ### Gasket Mount (ISH)
 * Utilizing **Poron sticky foam tape** with a maximum thickness of **4.7mm**. Linked above.
@@ -45,6 +47,6 @@ A silicone pour will be used underneath the PCB for acoustic insulation.
 
 ---
 
-## 💰 Cost Tracking (Pre-Tax)
-* **Current Identified Total:** $107.09
+##Cost Tracking (Pre-Tax)
+* **Current Identified Total:** $163.61
 * *Note: Total excludes the ESP32 development board, diodes, case materials, LEDs, and fasteners.*
