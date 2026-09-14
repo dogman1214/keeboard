@@ -49,3 +49,4 @@ A silicone pour will be used underneath the PCB for acoustic insulation.
 ---
 
 ## Final price: TBD
+For now (omitted omitted stuff): $168.93
