@@ -14,7 +14,6 @@ A custom designed keyboard from scratch. Tailored to my preferences.
 | **Rotary Encoder** | ALPS EC11 THT 20k thread-blue vertical switch (H: 20mm) | $5.58 | [Mouser](https://mouser.com) |
 | **Keycaps** | PBT green from keycaps, MOA profile | $24.99 | [Amazon](https://www.amazon.com/gp/product/B0F914Q43R?smid=A2X78RSRFYCZMR&th=1)|
 | **Diodes** | 1N4148 SMD (Quantity: 104) SOD-123 | $0.18 per unit| [Mouser](https://www.mouser.com/en/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D) |
-| **Lighting** | RGB LEDs | *TBD* | *TBD* |
 | **STabilize** | Durock v3 screw in | $25.99 | [Amazon](https://www.amazon.com/dp/B0B2RW12S2?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1)|
 | ** PCB** | pcb| $45| From use AIVON 30 dollar new discount|
 | *** Kailh Hotswap Sockets| from Mechanical keyboards keyboards. 120 quantity | $13.2 | [MechanicalKeyboards](https://mechanicalkeyboards.com/products/kailh-switch-hot-swap-socket?variant=47416807194924&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic)
