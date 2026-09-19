@@ -7,6 +7,8 @@ Please understand why I spent so much. First of all, Trump. Ordering the PCB fro
 But all these microbumps and macrobumps in price really increased how much I had to spend. Please understand me. I had viewed the budget to be like $180, but it was really concerning how much the price started increasing by. 
 PLEASE PLEASE approve this review. I beg of thee. Of courser, changes might need to be made, and I'm fine with that. But on the long term I don't want to lose the money I invested in this project, I did ordered prematurely because Intially I was doing projects via Stardance, but I realized NO WAY i could make deadline. So I swapped to this :) also I know double dipping will get me banned. Don't even tempt me.  I fully swapped over to this.
 
+BY THE WAY, I HAVE ALL THE RECIEPTS AND EVERYTHING SAVED!!! PM me on slack: raghavsharma1214 if you have any inquiries about why price is so high. or just anything.
+
 ## Overview
 
 This is an ANSI104 layout keyboard. Meaning 100% size, full numpad, and everything. It has creamy gateron milky yellow pro v2 switches, and an esp32 controlling it all. Finally, it is a gasket mount to dampen vibrations, and a silicon pour for the same effect, and to add more weight.  
