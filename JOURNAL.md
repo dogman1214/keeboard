@@ -152,6 +152,8 @@ righty guys so i changed some PCB things, sorted out through budget (was pushing
 I just wrapped up some things, teaked the case design (removed some wierd ass bezels and stuff) and then chopped the plate into one more piece so i can print it laying flat down. because the case is oging to be printed vertical, but not teh plate.
 <img width="932" height="861" alt="image" src="https://github.com/user-attachments/assets/ba4eaa1d-ef50-434d-83a2-8bb273cda3cb" />
 
+**Total time spent: 0.1 hours**
+
 
 
 
