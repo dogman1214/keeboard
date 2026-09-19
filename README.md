@@ -9,6 +9,8 @@ PLEASE PLEASE approve this review. I beg of thee. Of courser, changes might need
 
 BY THE WAY, I HAVE ALL THE RECIEPTS AND EVERYTHING SAVED!!! PM me on slack: raghavsharma1214 if you have any inquiries about why price is so high. or just anything.
 
+I'll delete this rant once approved :)
+
 ## Overview
 
 This is an ANSI104 layout keyboard. Meaning 100% size, full numpad, and everything. It has creamy gateron milky yellow pro v2 switches, and an esp32 controlling it all. Finally, it is a gasket mount to dampen vibrations, and a silicon pour for the same effect, and to add more weight.  
