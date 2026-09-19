@@ -15,6 +15,8 @@ This is an ANSI104 layout keyboard. Meaning 100% size, full numpad, and everythi
 
 I created this keyboard because I wasn't really satisfied with the keyboards on the market, and the current keyboard I have now. I want to follow the aesthetic I want, and not some drab boring tech-grey color or whatever, while keeping my own physical case style as well. 
 
+One unique thing i'm proud of is crafting my own Gasket mount system. Instead of using clunky o-ring systems, I designed a brand new board-wide poron tape design. Like foam, it works like a sandwitch above and below the keyboard plate, and designed to provide maximum creamieness.
+
 ## Gallery:
 <img width="2560" height="1311" alt="2" src="https://github.com/user-attachments/assets/e5b2c563-a7fc-4e6d-9a71-581b715fa542" />
 <img width="1412" height="449" alt="Screenshot 2026-09-18 212607" src="https://github.com/user-attachments/assets/c1f07fe7-93d2-4d5c-9608-f066a385f381" />
