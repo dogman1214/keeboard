@@ -1,7 +1,7 @@
 ---
 title: "KEEBoard"
 author: "Raghav Sharma"
-description: "A short description of your project"
+description: "A custom mechanical keyboard designed for maximum thoccieness"
 created_at: "2026-03-20"
 ---
 
