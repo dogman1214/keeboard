@@ -2,7 +2,7 @@
 title: "KEEBoard"
 author: "Raghav Sharma"
 description: "A custom mechanical keyboard designed for maximum thoccieness"
-created_at: "2026-03-20"
+created_at: "2026-07-18"
 ---
 # 7/18/2026: Setting up and Schematics:
 This entry incloudes the setup fo the github, planning parts, size of the keyboard, and starting the schmatics in KiCad.
