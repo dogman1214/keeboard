@@ -19,6 +19,9 @@ I created this keyboard because I wasn't really satisfied with the keyboards on 
 
 One unique thing i'm proud of is crafting my own Gasket mount system. Instead of using clunky o-ring systems, I designed a brand new board-wide poron tape design. Like foam, it works like a sandwitch above and below the keyboard plate, and designed to provide maximum creamieness.
 
+Editable CAD file: https://drive.google.com/file/d/1waTcEkKPX5QRJGWGog04dOq1EIFDCUFI/view?usp=sharing
+Uploading to drive due to the file been 500mb, too large to upload to github.
+
 ## Gallery:
 <img width="2560" height="1311" alt="2" src="https://github.com/user-attachments/assets/e5b2c563-a7fc-4e6d-9a71-581b715fa542" />
 <img width="1412" height="449" alt="Screenshot 2026-09-18 212607" src="https://github.com/user-attachments/assets/c1f07fe7-93d2-4d5c-9608-f066a385f381" />
