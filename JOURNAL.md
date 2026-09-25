@@ -333,7 +333,11 @@ I just wrapped up some things, teaked the case design (removed some wierd ass be
 **Total time spent: 0.1 hours**
 
 
-
+# 9/24/2026: Soldering parts
+I have now finished soldering the Kailh Sockets. This was a genuine pain in the bum. First, I had to experiment soldering on another PCB, since I recieved 5 in total, and then found out a strategy to solder the sockets. First, I soldered the left pad by itself, then aligned the socket and heated up that pad to join the socket. Then I soldered the empty socket when its jammed in place, so nothing moves. Wierdly effective, but time consuming. I had to do everything one by one. Place on ething, solder the pad, solder the first socket, solder other side, rinse and repeat. One. Hundred. and Four times. Genuinely took forever smh. I'm genuinely concerned about how I'll do the teensy weensy tiny SMD diodes since I only have a blunt soldering tip and a thick soldering wire with rosin. 
+<img width="1241" height="1655" alt="20260922_175707" src="https://github.com/user-attachments/assets/6dcf8684-be52-4c0c-b868-99e428825aca" />
+<img width="1230" height="1639" alt="20260924_164847" src="https://github.com/user-attachments/assets/b98c6db0-99c3-4bde-adea-a0533c328409" />
+**Total time spent: 5 hours**
 
 
 
