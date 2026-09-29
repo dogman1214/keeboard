@@ -51,6 +51,8 @@ Edit: I ran ERC and realized I had placed the labels wrong. I placed the labels 
 <img width="1764" height="817" alt="image" src="https://github.com/user-attachments/assets/b458f3f0-09a4-4334-946e-bade289b523e" />
 BTw now getting on with some Deeeelicious PCB stuff
 
+https://lapse.hackclub.com/timelapse/3WUqAu4O8yRH
+https://lapse.hackclub.com/timelapse/WA8jEyx22OIn
 **Total time spent: 4 hours**
 
 
@@ -58,7 +60,7 @@ BTw now getting on with some Deeeelicious PCB stuff
 I setting up pcb and all, ordering in the locations and stuff; it's taking quite a while but i'm doing it. I made some schematic changes to fix DRC and ERC but nothing major. I just found out the esp32-s3-Devkit-c has 2 usb-c ports which is kind of dumb lmao. Idk whether I should keep in the render
 <img width="358" height="478" alt="image" src="https://github.com/user-attachments/assets/37073664-0895-4a19-bd61-6cc3484dad7a" />
 yeah just a lot of moving going on rn
-
+https://lapse.hackclub.com/timelapse/CDYBX5rDsyJH
 **Total time spent: 3.4 hours**
 
 # 7/22/2026: Working on PCB lines
@@ -83,6 +85,7 @@ nvm it was the esc key i had forgotten.
 I finished the column wiring..
 <img width="1405" height="580" alt="image" src="https://github.com/user-attachments/assets/c2b9764a-58fd-4e02-a196-2dacb2d00420" />
 
+https://lapse.hackclub.com/timelapse/9pfG5WRcHhSc
 **Total time spent: 4.03 hours**
 
 # 7/26/2026: Row wirint etc...
@@ -91,6 +94,7 @@ Now I'm doing the row wiring... Also I forgot a diode on the esc key so I'm addi
 there was sme funky thing about obstacle avoidance, so i had to manyally avoid those obstacles.
 <img width="1012" height="784" alt="image" src="https://github.com/user-attachments/assets/c70a18ba-f671-421c-8621-844b947e6bbf" />
 
+https://lapse.hackclub.com/timelapse/O9weNJ8J25Oj
 **Total time spent: 1.5 hours**
 
 # 7/31/2026: wiring n stuff
@@ -103,8 +107,9 @@ Once I was drebugging this connection where I was missing a column but I had jus
 Next gunna start validation of pcb.
 I legit took an hour tryig to fit column wires to the gpio pins cuz the gpio pins are not LABELED IN FLIPPING order!!! So its like trying to navigate a maze.
 <img width="402" height="772" alt="image" src="https://github.com/user-attachments/assets/a4f01056-1c65-44fd-848b-39e4d11e91ec" />
-
-**Total time spent: 2.5 hours**
+https://lapse.hackclub.com/timelapse/npw5BTYCQf9S
+https://lapse.hackclub.com/timelapse/O9weNJ8J25Oj
+**Total time spent: 3.1 hours**
 
 # 8/1/2026: I just realized...
 I js realised that I didn't wire up the diodes to the key. I gotta do that for every single damn key.
@@ -163,6 +168,8 @@ wait though. I forgot to assign 3d models to each footprint in kicad. Sigh
 
 Ugh. Anyway, I'm planning possible I could order the keyboard case to be CNC'ed out of wood. that would be fun and thoccy.
 
+https://lapse.hackclub.com/timelapse/O9weNJ8J25Oj
+
 **Total time spent: 4 hours**
 
 
@@ -180,7 +187,7 @@ So I chatted with a dude on slack about this whole timing thing, and he said tha
 Yeah so I logged just 40 min of ts.
 
 But like, doing wood cnc is unlikly cuz it costs way too much. I'm confused.
-
+https://lapse.hackclub.com/timelapse/TtJ4D92b5bW6
 **Total time spent: 2 hours**
 
 
@@ -207,7 +214,7 @@ I had to manually place the keys, reference what the offset is compared to otehr
 And get this: It is all just for the visual cad represenation when this finishes.
 lmao
 <img width="1600" height="714" alt="image" src="https://github.com/user-attachments/assets/0b08f3cd-0697-43c2-a4d0-38d843fc24dd" />
-
+https://lapse.hackclub.com/timelapse/Dbg5_lDgB0Mr
 **Total time spent: 1.5 hours**
 
 # 8/15/2026: Going to blender
@@ -215,7 +222,7 @@ Now I’m transitioning to blender for the case design. I like blender because I
 SO I set up the case basics and everything, like the outline of the case, dividing into two parts. Very roguht right now. it looks pretty nice. I used a pre-designed set of keycaps online because I won’t be making those, but ordering them instead. anyway, it all looks pretty nice!
 
 <img width="1414" height="900" alt="image" src="https://github.com/user-attachments/assets/b86f0079-af38-47d4-87b2-36a9bba9b384" />
-
+https://lapse.hackclub.com/timelapse/u7cj53Iw6BM7
 **Total time spent: 1.6 hours**
 
 #8/15/2026: Making the case look nicer
@@ -226,7 +233,9 @@ Hell yeah
 I still have to finish the case. It isn’t close to being done yet. This is a rough “sketch”
 
 <img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/2c34e5eb-05b9-4a6c-b17a-26ebd4ae774a" />
-
+https://lapse.hackclub.com/timelapse/davr5KGs2haT
+https://lapse.hackclub.com/timelapse/O-nzzSRrc6XQ
+https://lapse.hackclub.com/timelapse/pFWcI6FXZqfJ
 **Total time spent: 2.8 hours**
 
 # 8/16/2026: redesigned the bloody case
@@ -234,7 +243,7 @@ Okay so I swapped up the case design agian. I had to redesign eveyrthing because
 Also I have to make sure the walls have thickness right now they are just 0mm thick.
 BTW, what i’m doing in this keyboard case, is something rarely done before. I’m creatign a gasket mount but no the regular kind. THis one will consist of poron foam tape spanning the entire perimeter as the “gasket”
 <img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/72e331ad-2aa3-43f3-970b-3f462a346294" />
-
+https://lapse.hackclub.com/timelapse/vjpRqQFbX-ZC
 **Total time spent: 2.15 hours**
 
 
@@ -253,7 +262,7 @@ Even though right now it is a kind-of gasket mount, this classifies it as a semi
 Also, I’m deciding that I will do a silicon pour under the PCB for maximum sound insulation. it will also add weight to the keyboard, to keep it anchored and NOT rattly.
 next will be to double check all parts of keyboard, make sure everything has proper thickness, and hope for the best!
 <img width="1600" height="714" alt="image" src="https://github.com/user-attachments/assets/9917691a-330f-4e6b-9148-25377d94d799" />
-
+https://lapse.hackclub.com/timelapse/UB852jE3cXXg
 **Total time spent: 1.5 hours**
 
 # 8/18/2026: Hopefully finalized design.
@@ -262,83 +271,106 @@ I added sections for rubber feet
 Made the case slightly longer for the bottom to have some thickness, and all sorts of other stuff. Now onto rendering or sum idk.
 <img width="1600" height="625" alt="image" src="https://github.com/user-attachments/assets/75a000a0-df94-4271-96b2-51f1fb1ac668" />
 
+Okay so I'm rlly sorry but I'm trying to add lapse links but I'm lost since my stupid ass named then as random ass things. So things are rlly jumbled and idk where to add them.
+https://lapse.hackclub.com/timelapse/zuQVrlLpvVih
+https://lapse.hackclub.com/timelapse/dT5T0_WiVqiY
+https://lapse.hackclub.com/timelapse/7iLm_rG60SL7
+https://lapse.hackclub.com/timelapse/o11d3SUkNIfR
+
 **Total time spent: 1.2 hours**
 
 # 8/18/2026: Rendering
 Doing the rendering. Changing the keyboard colors and everythign and making them look nice. pretty annoying, tried to color mach from keychron website.
 <img width="1600" height="576" alt="image" src="https://github.com/user-attachments/assets/e664e290-79b1-4668-9a31-7e39ed0e04c7" />
-
+https://lapse.hackclub.com/timelapse/o11d3SUkNIfR
 **Total time spent: 0.5 hours**
 
 # 8/19/2026: working more on rendering
 Places a lot of objects and set up scene + lighting. changed keyboard colors a bit, working on camera placement and everything
 <img width="895" height="554" alt="image" src="https://github.com/user-attachments/assets/3503d097-7d7c-4fc0-905a-a7569d0eb2ff" />
-
+https://lapse.hackclub.com/timelapse/5ryYk5S8lQw_
 **Total time spent: 1.55 hours**
 
 # 8/21/2026: Completed final render
 Did all the final rendering stuff, set up a custom camera with custom lens simulations and everything. had to render mulltiple time si had these weird white lines coming through whihc i had to solve (just deleted them...)
 <img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/38f122d9-4cdf-4e6c-ae07-1ad5e54ea36a" />
-
+https://lapse.hackclub.com/timelapse/4kv4oGFfk9Vz
 **Total time spent: 3.2 hours**
 
 # 8/23/2026: Working on the parts and everything
 I forgot to put screw holes i just remembered. will havve to do that but i was researching what parts to use and everything (like gateron milky yellow v2 for switches) and everything. 
 <img width="1142" height="900" alt="image" src="https://github.com/user-attachments/assets/ee2fe73e-93a4-429d-ac03-162ed6bb0343" />
-
+https://lapse.hackclub.com/timelapse/J7ylp05SC9PL
 **Total time spent: 1.7 hours**
 
 # 8/23/2026: Fixing some things and adding hole designs.
 Blender kept freezing though. Maybe i'll do it tomorrow if my laptop has a good day. But i'm attempting to create holes for screws and everything.
 <img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/784413fd-9e62-48de-9801-0b4fd4895f1b" />
-
+https://lapse.hackclub.com/timelapse/NQN4vzMRkYzO
 **Total time spent: 0.7 hours**
 
 # 8/27/2026: Able to work on holes actually
 I removed the bazillion verticies that were frying laptop. Used remesh mod for that, but topology got messed up. Its fine thouhg, 3d printing will smoothen it out. Bit im a bit conflicted about the holes.
 <img width="1600" height="873" alt="image" src="https://github.com/user-attachments/assets/b101bec7-5cc3-4c92-91db-9d24a9fe1f39" />
-
+https://lapse.hackclub.com/timelapse/v0PyT1fEGhM-
+https://lapse.hackclub.com/timelapse/1eI4YYaWjZMA
 **Total time spent: 1.7 hours**
 
 #8/30/2026: Finishing the screws
 I had to add independent screw holes and everytihg. pretty annoying since i had to like use boolean cut on a billion cylinders then anotehr subset of cylinders then more blah blah blah. I didn't like this parto ne bit.
 <img width="1384" height="689" alt="image" src="https://github.com/user-attachments/assets/7ee474f9-c0ec-43c2-8e25-e69991754eaf" />
-
+https://lapse.hackclub.com/timelapse/1QoecTHTxuNr
 **Total time spent: 1.5 hours**
 
 # 9/7/2026: Big gap, bu did conversion and mesh combinging.
 Polishing the keyboard.
 I converted the STLs to .STEP (a very annoying process btw), but before that i had to optimize the whole thing. I had to combine meshes and everything because all the files were totaling ~1g, and frying my RAM. Also I continued creating the BOM, and validating the PCB and stuff. This was SOO slow. because my ram was maxed out, I had to use SWAP. then blender, i had to wait like ~15 minutes between each operation because it ran hella slow. But I started researching different things like which keycaps I should use, which pour, and whatnot. BUt the whole optimization was so freaking tedious it took my whole bloody afternoon
 <img width="676" height="120" alt="image" src="https://github.com/user-attachments/assets/41ddfbaa-96a9-46c0-84ff-776baf58947b" />
-
+https://lapse.hackclub.com/timelapse/s4NLWLckjnWW
+https://lapse.hackclub.com/timelapse/9wDRVpnykdvd
 **Total time spent: 6 hours**
 
 # 9/10/2026: Working on the BOM and github
 Working on the keyboard and BOM.
 I decided to remove small ledges underneed the keyboard case for the rubber stoppers. I can just glue them on underneath. Having those ledges just gives the chance of messing up the 3d print. So I’ll do it like that. Also, I’m working on the github. I am solidifying the whoel readme and BOM
 <img width="1269" height="900" alt="image" src="https://github.com/user-attachments/assets/7b05f2e6-2cfa-4ba0-93b9-7b9cdb70dfd5" />
-
+https://lapse.hackclub.com/timelapse/lrfo8aeNaO_v
 **Total time spent: 2.1 hours**
 
 # 9/13/2026: Major redesign
 righty guys so i changed some PCB things, sorted out through budget (was pushing $300 but now down to 220) and I split the prints in half so that they can actually be printed. I had to create brand new screw holes and patch existing holes and stuff with cursed geometry, like i had to add more screw holes to attach both side togehter, because i realized i couldn't print a whole 500mm keyboard case at once, so thats pretty cursed.
 <img width="932" height="861" alt="image" src="https://github.com/user-attachments/assets/dcf5f834-4a2e-41fb-96c4-b57fbea82ba2" />
-
-**Total time spent: 6.2 hours**
+https://lapse.hackclub.com/timelapse/fAKmIf1tENd9
+https://lapse.hackclub.com/timelapse/TGsbc-rKLcf3
+https://lapse.hackclub.com/timelapse/iEL3SugmyFE-
+https://lapse.hackclub.com/timelapse/JbOWPj8l-TUY
+https://lapse.hackclub.com/timelapse/1CyQhn8J4snw
+https://lapse.hackclub.com/timelapse/meIdq8h9bs9P
+https://lapse.hackclub.com/timelapse/fT-6s93iyEma
+**Total time spent: 9.5 hours**
 
 # 9/14/2026: Gunna order parts
 I just wrapped up some things, teaked the case design (removed some wierd ass bezels and stuff) and then chopped the plate into one more piece so i can print it laying flat down. because the case is oging to be printed vertical, but not teh plate.
 <img width="932" height="861" alt="image" src="https://github.com/user-attachments/assets/ba4eaa1d-ef50-434d-83a2-8bb273cda3cb" />
-
-**Total time spent: 0.1 hours**
+https://lapse.hackclub.com/timelapse/KHnGpdSAQRNY
+https://lapse.hackclub.com/timelapse/_tLt5n1YfoyA
+**Total time spent: 2.1 hours**
 
 
 # 9/24/2026: Soldering parts
 I have now finished soldering the Kailh Sockets. This was a genuine pain in the bum. First, I had to experiment soldering on another PCB, since I recieved 5 in total, and then found out a strategy to solder the sockets. First, I soldered the left pad by itself, then aligned the socket and heated up that pad to join the socket. Then I soldered the empty socket when its jammed in place, so nothing moves. Wierdly effective, but time consuming. I had to do everything one by one. Place on ething, solder the pad, solder the first socket, solder other side, rinse and repeat. One. Hundred. and Four times. Genuinely took forever smh. I'm genuinely concerned about how I'll do the teensy weensy tiny SMD diodes since I only have a blunt soldering tip and a thick soldering wire with rosin. 
 <img width="1241" height="1655" alt="20260922_175707" src="https://github.com/user-attachments/assets/6dcf8684-be52-4c0c-b868-99e428825aca" />
 <img width="1230" height="1639" alt="20260924_164847" src="https://github.com/user-attachments/assets/b98c6db0-99c3-4bde-adea-a0533c328409" />
+https://lapse.hackclub.com/timelapse/H5k_-UeXBgWG
+https://lapse.hackclub.com/timelapse/zRzu4sp40AVt
+https://lapse.hackclub.com/timelapse/RmOGKjhCM0rE
+https://lapse.hackclub.com/timelapse/noeTP2a9b3Nx
+https://lapse.hackclub.com/timelapse/yzeAAGhjt6hX
 **Total time spent: 5 hours**
 
 
-
-
+# 9/26/2026: Working on the Tiny diodes
+Now I have to start working on the tiny diodes. They are EXTREMELY TINY. a GENUINE PAIN TO DO! The freakign soldering tip is wider than the diode itself. How am I gunna do this!
+<img width="2662" height="3550" alt="20260926_173747" src="https://github.com/user-attachments/assets/5121ff00-6e34-4d7b-9dfe-a180e53f75b9" />
+https://lapse.hackclub.com/timelapse/0-csvNaUK8Cf
+**Total time spent: 1 hour**
