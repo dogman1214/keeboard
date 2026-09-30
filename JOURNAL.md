@@ -220,12 +220,11 @@ https://lapse.hackclub.com/timelapse/Dbg5_lDgB0Mr
 # 8/15/2026: Going to blender
 Now I’m transitioning to blender for the case design. I like blender because I can fine tune the aesthetics and all.
 SO I set up the case basics and everything, like the outline of the case, dividing into two parts. Very roguht right now. it looks pretty nice. I used a pre-designed set of keycaps online because I won’t be making those, but ordering them instead. anyway, it all looks pretty nice!
-
 <img width="1414" height="900" alt="image" src="https://github.com/user-attachments/assets/b86f0079-af38-47d4-87b2-36a9bba9b384" />
 https://lapse.hackclub.com/timelapse/u7cj53Iw6BM7
 **Total time spent: 1.6 hours**
 
-#8/15/2026: Making the case look nicer
+# 8/15/2026: Making the case look nicer
 Working on the keyboard case…
 I made the exterior look all nice (ish), but I didn’t create the semi-gasket mount. An invention of my own
 The “gasket” is just foam tape going around the whole perimeter of the keeb’s plate. Absorbing vibrations and enhancing “thoccieness”
@@ -251,7 +250,6 @@ https://lapse.hackclub.com/timelapse/vjpRqQFbX-ZC
 building even more of the case
 I finished up the general shape of the case. I created an opening for the USB-C port, and now I have to give the walls actual thickness and stuff, and check for stuff. This case design is really cursed because instead of combining two walls, I just placed the verticies in the same place instead of joining lmao
 <img width="1584" height="900" alt="image" src="https://github.com/user-attachments/assets/c9123a3e-62fe-45cf-9975-d8ac593ae4a2" />
-
 **Total time spent: 1.5 hours**
 
 # 8/16/2026: stukkyy wukkky
