@@ -382,6 +382,8 @@ https://lapse.hackclub.com/timelapse/fJLRelDF6R2u
 # 9/30/2026: FINISHED DIODES LESGOO
 
 I finished the diodes! I finished soldering those tiny little bastards and completed a voltage check on each to see that its all good. 
+I first soldered the top of the pad, then put on the diode and osldered the top of the diode in, and then sodlered the bottom so it don't move. A lengthy and painful process but yeah...
+Lmao so the lapse goes dark sometimes because I'm working in the garage, and it has a motion-operated light. So every 7 minutes the light turns off and I have to stand up to turn it back on.
 <img width="1264" height="1686" alt="20260930_215953" src="https://github.com/user-attachments/assets/245382f3-cd55-41e6-a780-b2fba8e6e2a8" />
 https://lapse.hackclub.com/timelapse/D_39pcSAa2Mo
 **Total time spent: 2 hours**
