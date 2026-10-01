@@ -378,3 +378,10 @@ Yes, they are extremely small. The work is very boring and annoying. my eyes low
 <img width="1238" height="1651" alt="20260929_182304" src="https://github.com/user-attachments/assets/3ed65ce4-967b-46e2-a26e-3395286961d1" />
 https://lapse.hackclub.com/timelapse/fJLRelDF6R2u
 **Total time spent: 2 hours**
+
+# 9/30/2026: FINISHED DIODES LESGOO
+
+I finished the diodes! I finished soldering those tiny little bastards and completed a voltage check on each to see that its all good. 
+<img width="1264" height="1686" alt="20260930_215953" src="https://github.com/user-attachments/assets/245382f3-cd55-41e6-a780-b2fba8e6e2a8" />
+https://lapse.hackclub.com/timelapse/D_39pcSAa2Mo
+**Total time spent: 2 hours**
