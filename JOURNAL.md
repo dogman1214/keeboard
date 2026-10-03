@@ -387,3 +387,17 @@ Lmao so the lapse goes dark sometimes because I'm working in the garage, and it 
 <img width="1264" height="1686" alt="20260930_215953" src="https://github.com/user-attachments/assets/245382f3-cd55-41e6-a780-b2fba8e6e2a8" />
 https://lapse.hackclub.com/timelapse/D_39pcSAa2Mo
 **Total time spent: 2 hours**
+
+# 10/2/2026: Oh my god the esp32
+
+So funny thing, the esp32 that I have is too wide somehow. Even though i ordered the esp32 according to teh footprint. So I had to do some really wierd things.
+<img width="1319" height="1759" alt="20261002_201354" src="https://github.com/user-attachments/assets/25cfeff9-9225-4397-bda1-58d192bc62c4" />
+Look, its off.
+SO Ihad to bend the pins. 
+<img width="1309" height="1746" alt="20261002_204339" src="https://github.com/user-attachments/assets/b20fb584-6dbd-4841-988f-49953ee605e4" />
+ANNNNND THEN hammer it in (kind of, with the butt of a screwdriver) so that the esp32 would fit in these bent pins.
+and voila: <img width="2246" height="2994" alt="20261002_215130" src="https://github.com/user-attachments/assets/34d64f29-020c-407d-a2d3-51d90bb3457a" />
+I don't like this arrangement a single bit.
+https://lapse.hackclub.com/timelapse/m88__-mdD0b6
+**Total time spent: 1.6 hours**
+
