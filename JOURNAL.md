@@ -401,3 +401,19 @@ I don't like this arrangement a single bit.
 https://lapse.hackclub.com/timelapse/m88__-mdD0b6
 **Total time spent: 1.6 hours**
 
+# 10/6/2026: Researching firmware
+The firmware I have in my git is hella messy and prolly won't work with my keyboard.
+So I did a LOT of digging around, searching what firmware is best and how to set it up and everything.
+Right now, my main contenders are RMK and QMK. RMK is excellent for stuff like split keyboards as well.
+BUt I have a normal keyboard, and lowk the differences in latency and all won't be a big difference.
+I found a think called QMK configurator, hella neat, prolly gunna speed up my firmware process and all. nice.
+https://lapse.hackclub.com/timelapse/hlJvCyuOXY1m
+**Total time spend: 2 hours**
+
+# 10/8/2026: Finished stabilizers+switches+keycaps
+pretty major step forward. I was free pretty much all day, and did this over a couple days. I soldered in the rotary encoder. Then, I screwed in the stabilizers. Now, the wierd part was putting on the switches. Because the switches are what keeps the plate attached to PCB and vice versa, first I plug the switches into the plate, and then insert the hella bunch of switches into the PCB, which is no easy task. I have to literally hold it and squeeze it like how you pray, and then do that a billion times to make sure connection all good. And then,,, I had to put on the keycaps. I love these keycaps. Testing the sound is very positive. Relatively thoccy for now. But I didn't set up gasket n all. One funky thing was the space key was very damped and didn't spring back up. I found out the stabilizer's rod was too long, so I bent the tips so It would fit better. And the whabam! fixed. I tested it with the 3d printed case, all positive. (Btw I 3d printed case at school). 
+https://lapse.hackclub.com/timelapse/BpTJ6pcCB4ku
+https://lapse.hackclub.com/timelapse/B4OU2ahvuMW4
+https://lapse.hackclub.com/timelapse/KgMDGSmmF9WN
+**Total time spend: 2.5 hours**
+
