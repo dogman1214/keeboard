@@ -410,7 +410,7 @@ I found a think called QMK configurator, hella neat, prolly gunna speed up my fi
 <img width="1682" height="1206" alt="image" src="https://github.com/user-attachments/assets/87656929-378a-4347-85bf-4337be0fe80d" />
 
 https://lapse.hackclub.com/timelapse/hlJvCyuOXY1m
-**Total time spend: 2 hours**
+**Total time spent: 2 hours**
 
 # 10/8/2026: Finished stabilizers+switches+keycaps
 pretty major step forward. I was free pretty much all day, and did this over a couple days. I soldered in the rotary encoder. Then, I screwed in the stabilizers. Now, the wierd part was putting on the switches. Because the switches are what keeps the plate attached to PCB and vice versa, first I plug the switches into the plate, and then insert the hella bunch of switches into the PCB, which is no easy task. I have to literally hold it and squeeze it like how you pray, and then do that a billion times to make sure connection all good. And then,,, I had to put on the keycaps. I love these keycaps. Testing the sound is very positive. Relatively thoccy for now. But I didn't set up gasket n all. One funky thing was the space key was very damped and didn't spring back up. I found out the stabilizer's rod was too long, so I bent the tips so It would fit better. And the whabam! fixed. I tested it with the 3d printed case, all positive. (Btw I 3d printed case at school). 
@@ -419,5 +419,5 @@ pretty major step forward. I was free pretty much all day, and did this over a c
 https://lapse.hackclub.com/timelapse/BpTJ6pcCB4ku
 https://lapse.hackclub.com/timelapse/B4OU2ahvuMW4
 https://lapse.hackclub.com/timelapse/KgMDGSmmF9WN
-**Total time spend: 2.5 hours**
+**Total time spent: 2.5 hours**
 
