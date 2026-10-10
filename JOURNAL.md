@@ -421,3 +421,8 @@ https://lapse.hackclub.com/timelapse/B4OU2ahvuMW4
 https://lapse.hackclub.com/timelapse/KgMDGSmmF9WN
 **Total time spent: 2.5 hours**
 
+# 10/9/2026: Putting in the heatsink screw stuff and PORON gaskets.
+So I put in the heatset insers or whatever, went pretty well I burnt my finger. But I put the heatset inserts into the part of teh bottom case where I already have the top part printed as well. So I'm still waiting for the second part of the top part of case to be printed to complete that part. Then, I started doing poron gasket cutting and gluing. So the poron strips have to be like 5mm wide and like 500mm long, so initially i traced an outline with a Xacto knife then cut it with a scissor. It was very NOT straight, but after gluing it onto the dedicated slots in the case, and putting the plate with PCB on top, it sounds AMAZING!! Very creamy and thoccy. Although there is a bit of flex in the plate since it's 3d printed. But thats where the silicone rubber will come into rescue, it'll help support the pcb so the plate won't have that much flex. 
+<img width="1279" height="1705" alt="20261009_170848" src="https://github.com/user-attachments/assets/559d8aad-ea74-40a2-b526-a6c68d482747" />
+https://lapse.hackclub.com/timelapse/lYwlrxZDCaxK
+**Total time spent: 2.2 hours**
