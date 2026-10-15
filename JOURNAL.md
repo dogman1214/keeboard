@@ -426,3 +426,11 @@ So I put in the heatset insers or whatever, went pretty well I burnt my finger. 
 <img width="1279" height="1705" alt="20261009_170848" src="https://github.com/user-attachments/assets/559d8aad-ea74-40a2-b526-a6c68d482747" />
 https://lapse.hackclub.com/timelapse/lYwlrxZDCaxK
 **Total time spent: 2.2 hours**
+
+# 10/14/2026: Print didn't go well. Redesigned part
+So I got the print from my friend at school, and the model and print were all kinda messed up. Because my placement of the esp32 was so cursed, the print, which was the top piece of the case, didn't fit correctly. As a proof of concept, I cut a bunch of holes for the esp32 to fit, but I need to print a proper case for a more permament soltution. So I edited file in blender and sent to my friend for printing... or at least tried to. The file was 255mb because I used the remesh modifier, so I tried to limited dissolve on the part, but then my laptop froze hella so I guess I cut it off for today. 
+<img width="1336" height="1781" alt="20261014_184553" src="https://github.com/user-attachments/assets/de6c411f-fff2-4f2b-b613-1a2d906bfbfb" />
+https://lapse.hackclub.com/timelapse/M4yPmi9bGx0c
+https://lapse.hackclub.com/timelapse/W618kTHlYEJW
+
+**Total time spent: 2.6 hours**
