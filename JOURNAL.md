@@ -434,3 +434,10 @@ https://lapse.hackclub.com/timelapse/M4yPmi9bGx0c
 https://lapse.hackclub.com/timelapse/W618kTHlYEJW
 
 **Total time spent: 2.6 hours**
+
+# 10/16/2026: Installed the final part of case, just the knob remaining
+My friend printed the new top part of case, and when I screwed it in, it fit like a glove amazing. but First I had to cut the PORON gasket foam, and then use adhesives to put it on, and thennnn I screwed everything on. Oh my god is it perfect. Shiver me timbers (cornball).
+<img width="1287" height="1717" alt="20261016_194258" src="https://github.com/user-attachments/assets/3fbe7252-7495-40e4-bc9d-5b358a6a27d3" />
+<img width="1337" height="1783" alt="20261016_194749" src="https://github.com/user-attachments/assets/503fa2ca-6209-4ebf-8ae6-05a8068239c2" />
+https://lapse.hackclub.com/timelapse/t-N15IOI2TGj
+**Total time spent: 1 hour**
