@@ -446,10 +446,10 @@ https://lapse.hackclub.com/timelapse/t-N15IOI2TGj
 So, PSAT scores came out today...
 Anyway, I tried to start on the firmware for the keyboard, but then I approached a very big problem. The pins 35, 36, 37 are completely unusable on esp32-s3 n16r8 for the octa PSRAM or something. I already have my pcb routed to those? so what should I do? I think I'm going to buy the esp32-s3-devkitC-1 N8r2, which has all the channels avialable. Then hopefully it work. Oh my gosh though i'm worried.
 
+Screenshots aren't uploading? 
 
-
-
-
+says "something went really wrong, and we can't process that file. *try again*"
+Dude whats happenign
 
 https://lapse.hackclub.com/timelapse/JSle5rfeL-91
-**Totalt ime spent: 1.5 hours**
+**Total time spent: 1.5 hours**
