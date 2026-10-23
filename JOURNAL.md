@@ -441,3 +441,15 @@ My friend printed the new top part of case, and when I screwed it in, it fit lik
 <img width="1337" height="1783" alt="20261016_194749" src="https://github.com/user-attachments/assets/503fa2ca-6209-4ebf-8ae6-05a8068239c2" />
 https://lapse.hackclub.com/timelapse/t-N15IOI2TGj
 **Total time spent: 1 hour**
+
+@ 10/22/2026: Am cooked
+So, PSAT scores came out today...
+Anyway, I tried to start on the firmware for the keyboard, but then I approached a very big problem. The pins 35, 36, 37 are completely unusable on esp32-s3 n16r8 for the octa PSRAM or something. I already have my pcb routed to those? so what should I do? I think I'm going to buy the esp32-s3-devkitC-1 N8r2, which has all the channels avialable. Then hopefully it work. Oh my gosh though i'm worried.
+
+
+
+
+
+
+https://lapse.hackclub.com/timelapse/JSle5rfeL-91
+**Totalt ime spent: 1.5 hours**
