@@ -444,7 +444,7 @@ https://lapse.hackclub.com/timelapse/t-N15IOI2TGj
 
 # 10/22/2026: Am cooked
 So, PSAT scores came out today...
-Anyway, I tried to start on the firmware for the keyboard, but then I approached a very big problem. The pins 35, 36, 37 are completely unusable on esp32-s3 n16r8 for the octa PSRAM or something. I already have my pcb routed to those? so what should I do? I think I'm going to buy the esp32-s3-devkitC-1 N8r2, which has all the channels avialable. Then hopefully it work. Oh my gosh though i'm worried.
+Anyway, I tried to start on the firmware for the keyboard, but then I approached a very big problem. The pins 35, 36, 37 are completely unusable on esp32-s3 n16r8 for the octa PSRAM or something. I already have my pcb routed to those? so what should I do? I think I'm going to buy the esp32-s3-devkitC-1 N8r2, which has all the channels avialable. Then hopefully it work. Oh my gosh though i'm worried. But first since I have a new laptop I had to download arduino ID and set up the github and everything. The flashing light on the esp32 is VERY annoying.
 <img width="478" height="737" alt="Screenshot 2026-10-22 200737" src="https://github.com/user-attachments/assets/de707e20-3af4-4c4c-a94c-462a022b0a83" />
 <img width="768" height="423" alt="Screenshot 2026-10-22 195146" src="https://github.com/user-attachments/assets/63bf2f4b-7d28-4fa5-9543-553a628436ec" />
 
