@@ -450,3 +450,10 @@ Anyway, I tried to start on the firmware for the keyboard, but then I approached
 
 https://lapse.hackclub.com/timelapse/JSle5rfeL-91
 **Total time spent: 1.5 hours**
+
+# 10/26/2026: Double f***ed
+So I desoldered the first ESP32 (GENUINE PAIN IN THE ASS), I TRIED TO TAKE OUT THE SOLDER WITH A WICK AND SUCTION, BUT DIDN"T Help. in the end i cut it up with a plier and pried it out, damaging some of the connections in the process. Then I soldered back the second esp32. I'll fix the connections tomorrow with some wire. But this is genuinely frying me right now.
+<img width="1694" height="1270" alt="20261026_202641" src="https://github.com/user-attachments/assets/80d96b1b-e757-41a2-9f04-db7904bb0fd7" />
+https://lapse.hackclub.com/timelapse/BpYui9Y76rzR
+https://lapse.hackclub.com/timelapse/hyJMYg7L5trU
+ **Total time spent: 3.2 hours**
