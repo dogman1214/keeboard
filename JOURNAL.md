@@ -457,3 +457,9 @@ So I desoldered the first ESP32 (GENUINE PAIN IN THE ASS), I TRIED TO TAKE OUT T
 https://lapse.hackclub.com/timelapse/BpYui9Y76rzR
 https://lapse.hackclub.com/timelapse/hyJMYg7L5trU
  **Total time spent: 3.2 hours**
+
+# 10/28/2026: IM SO SORRY IDK HOW TO GET RID OF THE FLUX
+So I finally went about fixing up the messed up pcb routes because of the last log. i saw this thing online of a guy making super clean aesthetic 3d pcb with wires, so I *attempted* that, it went OK not too shabby. The flux looks like someone shit over the keyboard but I genuinely fried my ass getting that esp32 out yestermorrow (2 days ago :\ ). I don't rlly have insulated cables ish, but I had these coils of wires I ripped out from some speakers when I was tiny. Luckily they were insulated with some coating, like a thin paint, shoulnd't trust it to hold too long without shorting, so i aded electrical tape where needed. I had to sand down the tips so electricity would conduct and solder would attach (also used flux), initially I used a snading paper but I js gave up and used a drill attached to this sanding bit.
+I was working on this in two shifts, first half then I went to my school badminton fundraiser at Chipotle (yummy!), then worked on second half. 
+<img width="1446" height="3648" alt="Scan_20261028_214751" src="https://github.com/user-attachments/assets/788c6d14-10a6-46ad-84c3-889889357967" />
+**Total time spent: 2 hours**
