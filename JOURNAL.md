@@ -465,4 +465,11 @@ My grandma fit be crazy
 <img width="1446" height="3648" alt="Scan_20261028_214751" src="https://github.com/user-attachments/assets/788c6d14-10a6-46ad-84c3-889889357967" />
 https://lapse.hackclub.com/timelapse/8B9cRy3WUbzO
 https://lapse.hackclub.com/timelapse/E-aSLr46KHzC
+
+# 10/30/2026: The firmware messing me up
+I genuinely don;t know how to do this firmware stuff
+So I started with RMK, set everything up, flashed a basic setup that would at least work a little but. But then when I plug in the esp32 after flashing the firmware, it just goes haywire, random constant clicking, gpu mode changing, keyboard lgiht changing/ Genuine bs. i tried to refer to the kicad PCB for thelayotus n shi. Then im swapping to QMK cuz I heard its better and simpler for wire ketbars. i started a little bit of that but i'm deep fried right now its 10:30 pm i'll continue this tomorrow.
+<img width="2103" height="1252" alt="image" src="https://github.com/user-attachments/assets/17621768-a6c1-459b-b722-723fd93cecf3" />
+https://lapse.hackclub.com/timelapse/lKuGsaxnr9zs
+**Total time spent: 2.8 hours**
 **Total time spent: 2 hours**
