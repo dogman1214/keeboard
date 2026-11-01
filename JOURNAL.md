@@ -473,3 +473,9 @@ So I started with RMK, set everything up, flashed a basic setup that would at le
 https://lapse.hackclub.com/timelapse/lKuGsaxnr9zs
 **Total time spent: 2.8 hours**
 **Total time spent: 2 hours**
+
+# 10/31/2026: Trick or treat
+unfortunately I got tricked. I like mapped all the keys and assigne the values n shi, but problem is that only stuff like shift key or control key or windows key works. IDK what to do bruh i gotta fix it. No other keys work.
+<img width="4000" height="3000" alt="20261101_112040 (1)" src="https://github.com/user-attachments/assets/87c5d21b-8ecc-4367-8d41-8165989ea373" />
+https://lapse.hackclub.com/timelapse/f1QR52YR4S5W
+ **Total time spent: 1.8 hours**
