@@ -478,4 +478,12 @@ https://lapse.hackclub.com/timelapse/lKuGsaxnr9zs
 unfortunately I got tricked. I like mapped all the keys and assigne the values n shi, but problem is that only stuff like shift key or control key or windows key works. IDK what to do bruh i gotta fix it. No other keys work.
 <img width="4000" height="3000" alt="20261101_112040 (1)" src="https://github.com/user-attachments/assets/87c5d21b-8ecc-4367-8d41-8165989ea373" />
 https://lapse.hackclub.com/timelapse/f1QR52YR4S5W
+
+# 11/1/2026: Pretty much finished
+Yess guys its pretty muchg finsihed. so you know the problem  I was having yesterdayt? that was because I had my row 0 mapped to GPIO0, which is like some boot thing, and then when it got pulled when plugging in, the compuiter thought all thye FN keys were pressed continuously like an autoclicker. So, intially I used a 1k Ohm resistor between GPIO0 and GND to see if i could always pull it low so it only goes high when I click a button, but then that made it always hold down BOOT so the code never started. Instead, afterwards, first I soldered the row 0 to GPIO15, a spare gpio pin, then with a shart knife I scratched off the circuitry connecting the row to GPIO0, so it only goes to GPIO15. Afterwards, it was all dandy, bujt the + and enter on the numpad weren't woreking. After a lot of scrutiny I found out I had them in the wrong coordinates, so I had to fix it in  the right coordinated anbd tiw orked. Then, I wnated there to be pause, skip, and rewind buttons on the keyboard, so I replaced scrlk, prntscrn, and whatever the third thing was above teh arrow keys and replacetd it with that, also repalcuing the physical keycaps as well. And well, i'm typing this log with it right now! It sounds so good. But I still gotta do all the foam stuff underneat and the rotary encoder.
+<img width="1277" height="1703" alt="20261101_185731" src="https://github.com/user-attachments/assets/6fbae952-b2f2-461f-b790-dc8b1dc102e0" />
+https://lapse.hackclub.com/timelapse/-IHNhDnm8bg9
+https://lapse.hackclub.com/timelapse/cTst_a61ciAG
+
+**Total time spent: 3.1 hours**
  **Total time spent: 1.8 hours**
