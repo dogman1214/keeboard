@@ -1,15 +1,5 @@
 # keeboard
 
-###Note for FORGE Reviewers:
-I had already bought the parts for this keyboard. I'm looking for reimbursment, not funding, if that is possible (I beg of thee it is).
-I'm sorry that the prices for everything is so high. If you review the BOM, nothing would really be buildable without all the parts I bought. I tried to find the cheapest parts, but I realized that shipping minimum is $8, so then ordering from multiple 3rd party websites, prices would stack up considerably. So then I chose to order from Amazon. Please don't be taken aback by the price, I tried to make it as cheap as possible. The total price was just under $300. 
-Please understand why I spent so much. First of all, Trump. Ordering the PCB from JLCPCB costed $45 or so dollars for the bare pcb. Then shipping costs came in, and then also tarrifs. that more than doubled the price to $100, but with the in ap $20 discount I reduced it to $80.
-But all these microbumps and macrobumps in price really increased how much I had to spend. Please understand me. I had viewed the budget to be like $180, but it was really concerning how much the price started increasing by. 
-PLEASE PLEASE approve this review. I beg of thee. Of courser, changes might need to be made, and I'm fine with that. But on the long term I don't want to lose the money I invested in this project, I did ordered prematurely because Intially I was doing projects via Stardance, but I realized NO WAY i could make deadline. So I swapped to this :) also I know double dipping will get me banned. Don't even tempt me.  I fully swapped over to this.
-
-BY THE WAY, I HAVE ALL THE RECIEPTS AND EVERYTHING SAVED!!! PM me on slack: raghavsharma1214 if you have any inquiries about why price is so high. or just anything.
-
-I'll delete this rant once approved :)
 
 ## Overview
 
