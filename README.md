@@ -18,13 +18,9 @@ Uploading to drive due to the file been 500mb, too large to upload to github.
 <img width="2213" height="920" alt="Screenshot 2026-09-18 212728" src="https://github.com/user-attachments/assets/fbd95075-ac13-46cc-8097-b3dfbccccc9a" />
 
 
-## Future Improvements
-
-Optimize the keyboard case design, maybe don't have as many bulky screws. Make the firmware better I guess, minimize latency so that I can game on it. Of course, the keyboard isn't physically built at the moment. 
 ---
 
 ## ASSEMBLY
-### ** haven't built yet. Waiting for approval by FORGE **
 1. Solder on the diodes and kailh hotswap sockets
 2. Solder in the esp32
 3. Plug in the switches, with the plate in the middle
