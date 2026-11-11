@@ -234,7 +234,7 @@ I still have to finish the case. It isn’t close to being done yet. This is a r
 <img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/2c34e5eb-05b9-4a6c-b17a-26ebd4ae774a" />
 https://lapse.hackclub.com/timelapse/davr5KGs2haT
 https://lapse.hackclub.com/timelapse/O-nzzSRrc6XQ
-https://lapse.hackclub.com/timelapse/pFWcI6FXZqfJ
+https://lapse.hackclub.com/timelapse/pFWcI6FXZqfJ 
 **Total time spent: 2.8 hours**
 
 # 8/16/2026: redesigned the bloody case
