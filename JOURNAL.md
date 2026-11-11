@@ -371,7 +371,7 @@ https://lapse.hackclub.com/timelapse/yzeAAGhjt6hX
 Now I have to start working on the tiny diodes. They are EXTREMELY TINY. a GENUINE PAIN TO DO! The freakign soldering tip is wider than the diode itself. How am I gunna do this!
 <img width="2662" height="3550" alt="20260926_173747" src="https://github.com/user-attachments/assets/5121ff00-6e34-4d7b-9dfe-a180e53f75b9" />
 https://lapse.hackclub.com/timelapse/0-csvNaUK8Cf
-**Total time spent: 1 hour2**
+**Total time spent: 1 hour 2 minutes**
 
 # 9/29/2026: Still working on the diodes.
 Yes, they are extremely small. The work is very boring and annoying. my eyes lowk hurt right now, but gotta keep soldering.
