@@ -486,3 +486,14 @@ Yess guys its pretty muchg finsihed. so you know the problem  I was having yeste
 https://lapse.hackclub.com/timelapse/-IHNhDnm8bg9
 https://lapse.hackclub.com/timelapse/cTst_a61ciAG
 **Total time spent: 3.1 hours**
+
+# 11/13/2026" Workign on the silicon foam, lowk kinda dissapointed.
+So today I started working on the silicon foam. But first there were tiny holes in the case where the 3d printer wasn't able to print properly, probably because the walls were too this, so I had to patch them up with superglue. The superglue took HELLA long to dry like really long I don't know why, so I ran some alcohol over it to make it cure faster. It kinda helped a bit, but it only semi-hardened the top outer layer didn't really help. So I treied trying it more but nah not really happeniong. So I tested with more alcohol to see whether it leaked out, and no it didn't. it's watertight enough. So I started the preperation for the silicon pour. I used painter's tape to tape the middle parts so it doesn't seep out the middle, which was very annoying due to the very edges of it b eing very small and cramped. Then, I started pouring the silicon. This is where things went a tad bit sideways. After pouring silicon - the first time I tried doing it, I realized it wasn't enough, so I mixed up another batch to pout, and poured that. Then that wasn't enough,s o I mixed up a third batch, and poured a little bit. That proved to be a *tad* bit too much. Anyway, I wrapped the PCB in seran wrap, and then placed it in the case so the shape takes place very uniformly. Problem was that it started seeping over the edgtes since I poured a bit, but what could I do? there wasn't enough room to spoon it up or anything. So to help settle it I used my mom's massaging gun to vibrate the table, with my hand as the medium, to make it settle. And after letting it cure overnight, it turned out ight. I just peeled off the overflowing bits, although it's still looking sloppy.
+
+After I fit on the pcb withot seran wrap after curing, I was kind of dissatisfied of trhe sound. It lost the initial deep resonance thoccieness, which I liked, but It added considerable syupport removing a lot of flex. So There are tradeoffs to benefits. I don't really 100% like the sound though :\ but for the next split keyhboard project maybe i'll keep it hollow. Who knows?
+My seran wrap wasn't too tight, so the sahpe was kind of cursed as well. And it puncutedfd a bit spilling onto the pcb but I peeled that off so no worries.
+https://lapse.hackclub.com/timelapse/UJPtWtHrxFW-
+https://lapse.hackclub.com/timelapse/9xZZQ366TuzP
+<img width="1288" height="1717" alt="20261114_103025" src="https://github.com/user-attachments/assets/2d9c6aee-4eb4-4c98-92aa-ebb5027bd1a5" />
+
+**Total time spent: 4.4 hours**
