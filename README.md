@@ -13,7 +13,12 @@ Editable CAD file: https://drive.google.com/file/d/1waTcEkKPX5QRJGWGog04dOq1EIFD
 Uploading to drive due to the file been 500mb, too large to upload to github.
 
 ## Gallery:
+
+###Final product
 <img width="4400" height="2478" alt="DSCF1164" src="https://github.com/user-attachments/assets/984701aa-561f-415b-ad83-8bc84c8553af" />
+https://drive.google.com/file/d/1QUcd7Acbhl26HVcqyrLor1D8rplG8piI/view?usp=drivesdk
+
+###Digital
 <img width="2560" height="1311" alt="2" src="https://github.com/user-attachments/assets/e5b2c563-a7fc-4e6d-9a71-581b715fa542" />
 <img width="1412" height="449" alt="Screenshot 2026-09-18 212607" src="https://github.com/user-attachments/assets/c1f07fe7-93d2-4d5c-9608-f066a385f381" />
 <img width="2213" height="920" alt="Screenshot 2026-09-18 212728" src="https://github.com/user-attachments/assets/fbd95075-ac13-46cc-8097-b3dfbccccc9a" />
